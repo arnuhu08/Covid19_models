@@ -1,3 +1,5 @@
+# This file imports and visulize the covid data
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as numpy
